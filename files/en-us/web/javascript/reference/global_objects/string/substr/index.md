@@ -23,8 +23,8 @@ The **`substr()`** method returns a portion of the string, starting at the speci
 ## Syntax
 
 ```js-nolint
-substr(start)
-substr(start, length)
+substr(start);
+substr(start, length);
 ```
 
 ### Parameters
